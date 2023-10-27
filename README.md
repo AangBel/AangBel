@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ...
+    Refining both my portfolio website and my full stack project - Rutina. I created Rutina in order to be able to better organize my day to day tasks        and through refining this application for daily use I'm investing time in organizing myself altogether. 
+
+    Also working on gaining more hearts on Zelda's Tears of The Kingdom...
+  
+- 🌱 I’m currently learning ...
+    C# and Jest! We've practiced building a REST API with C# so now my classmate and I are looking into learning Typescript so we can use it on our     
+    client project. 
+
 ### Skills<a name="SKILLS"></a>
 Technical     | Soft
 ------------- | -------------
