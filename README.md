@@ -21,8 +21,7 @@ Here are some ideas to get you started:
     Also working on gaining more hearts on Zelda's Tears of The Kingdom...
   
 - 🌱 I’m currently learning ...
-    C# and Jest! We've practiced building a REST API with C# so now my classmate and I are looking into learning Typescript so we can use it on our     
-    client project. 
+    C# and Jest! We've practiced building a REST API with C# so now my classmate and I are looking into learning Typescript so we can use it on our client project. 
 
 ### Skills<a name="SKILLS"></a>
 Technical     | Soft
