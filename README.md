@@ -48,3 +48,6 @@ Heroku        |
 Canva         |
 Figma         |
 Neon          |
+
+<img width="1494" alt="Barbie SQL" src="https://github.com/AangBel/AangBel/assets/119378254/b9af9958-226e-4f6c-8222-e955aceb5b16">
+
