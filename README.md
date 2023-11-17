@@ -48,6 +48,10 @@ Heroku        |
 Canva         |
 Figma         |
 Neon          |
+<img width="1496" alt="Rutina" src="https://github.com/AangBel/AangBel/assets/119378254/dbffecb4-b0bb-4d64-87e8-e91d19552e30">
 
 <img width="1494" alt="Barbie SQL" src="https://github.com/AangBel/AangBel/assets/119378254/b9af9958-226e-4f6c-8222-e955aceb5b16">
+<img width="1496" alt="Movie saga" src="https://github.com/AangBel/AangBel/assets/119378254/96cdd7c5-2557-482a-82ae-2a34e8095c8f">
+<img width="1491" alt="Gallery" src="https://github.com/AangBel/AangBel/assets/119378254/c748612d-6ef9-4705-96b3-069a23600f5d">
+
 
