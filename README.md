@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **angelica.beltran11@gmail.com**
 
-![large screen desktop project](https://github.com/AangBel/AangBel/assets/119378254/83c9b3d5-7404-4986-8fe7-96d42c39f6f9)
+![image of desktop honour](https://github.com/AangBel/AangBel/assets/119378254/652e1373-c320-4528-ab94-a1524cb765df)
 <img width="1494" alt="Barbie SQL" src="https://github.com/AangBel/AangBel/assets/119378254/b9af9958-226e-4f6c-8222-e955aceb5b16">
 <img width="1496" alt="Movie saga" src="https://github.com/AangBel/AangBel/assets/119378254/96cdd7c5-2557-482a-82ae-2a34e8095c8f">
 <img width="1491" alt="Gallery" src="https://github.com/AangBel/AangBel/assets/119378254/c748612d-6ef9-4705-96b3-069a23600f5d">
