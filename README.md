@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **angelica.beltran11@gmail.com**
 
-- 
+
 
 ![image of desktop honour](https://github.com/AangBel/AangBel/assets/119378254/652e1373-c320-4528-ab94-a1524cb765df)
 <a>https://fierce-bayou-82155-484a03091d02.herokuapp.com/</a>
