@@ -11,12 +11,13 @@ During my current contract I've also worked with [American Express](https://www.
 
 <img width="1492" alt="lakemedia" src="https://github.com/user-attachments/assets/a7631de8-799b-4365-99f2-9db739e90868">
 <br>
+<br>
 <img width="1492" alt="cqfluency" src="https://github.com/user-attachments/assets/6198a3f0-8753-4828-9aa1-cf7ab2d49642">
-
-
+<br>
 <br>
 <img width="1492" alt="foresight" src="https://github.com/user-attachments/assets/f1c38c87-a26c-4df9-9435-1073ff28a69e">
-
+<br>
+<br>
 
 ![image of desktop honour](https://github.com/AangBel/AangBel/assets/119378254/652e1373-c320-4528-ab94-a1524cb765df)
 <a>https://fierce-bayou-82155-484a03091d02.herokuapp.com/</a>
