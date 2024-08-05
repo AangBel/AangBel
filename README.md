@@ -8,6 +8,8 @@
 
 During my current contract I've also worked with [American Express](https://www.americanexpress.com/), [CQ Fluency](https://www.cqfluency.com/), [Foresight Strategy](https://foresightstrategy.com/), [Lake Media](https://lakemediagroup.com/), and more.
 
+<img src="https://foresightstrategy.com/"><img width="1492" alt="foresight" src="https://github.com/user-attachments/assets/f1c38c87-a26c-4df9-9435-1073ff28a69e">
+
 
 ![image of desktop honour](https://github.com/AangBel/AangBel/assets/119378254/652e1373-c320-4528-ab94-a1524cb765df)
 <a>https://fierce-bayou-82155-484a03091d02.herokuapp.com/</a>
