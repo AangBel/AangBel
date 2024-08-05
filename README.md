@@ -13,7 +13,7 @@ During my current contract I've also worked with [American Express](https://www.
 
 
 <br>
-<img src="https://foresightstrategy.com/"><img width="1492" alt="foresight" src="https://github.com/user-attachments/assets/f1c38c87-a26c-4df9-9435-1073ff28a69e">
+<img width="1492" alt="foresight" src="https://github.com/user-attachments/assets/f1c38c87-a26c-4df9-9435-1073ff28a69e">
 
 
 ![image of desktop honour](https://github.com/AangBel/AangBel/assets/119378254/652e1373-c320-4528-ab94-a1524cb765df)
