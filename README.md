@@ -59,5 +59,17 @@ Heroku        |
 Canva         |
 Figma         |
 Neon          |
+TypeScript    |
+SCSS          |
+SQL           |
+PostgreSQL    |
+PHP           |
+GoLang        |
+Wordpress CMS |
+Email Dev     |
+Salesforce    |
+REST API's    |
+
+
 
 
