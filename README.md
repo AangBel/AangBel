@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Angelica Beltran</h1>
 
-- 🔭 I’m currently working on a full site for <a src="https://www.lifeworks.org/">Lifeworks</a>.
+- 🔭 I’m currently working on a full site redesign for [Lifeworks](https://www.lifeworks.org/).
 
 - 🌱 I’m currently strengthening my knowledge on animations and transitions.
 
 - 📫 How to reach me **angelica.beltran11@gmail.com**
 
-During my current contract I've also worked with American Express, CQ Fluency, Foresight Strategy, Lake Media, Toro, 
+During my current contract I've also worked with [American Express](https://www.americanexpress.com/), [CQ Fluency](https://www.cqfluency.com/), [Foresight Strategy](https://foresightstrategy.com/), [Lake Media](https://lakemediagroup.com/), and more.
 
 
 ![image of desktop honour](https://github.com/AangBel/AangBel/assets/119378254/652e1373-c320-4528-ab94-a1524cb765df)
