@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angelica Beltran</h1>
 
-- 🔭 I’m currently working on a full site for <a src='https://www.lifeworks.org/'> Lifeworks.</a>
+- 🔭 I’m currently working on a full site for <a src="https://www.lifeworks.org/">Lifeworks</a>.
 
 - 🌱 I’m currently strengthening my knowledge on animations and transitions.
 
