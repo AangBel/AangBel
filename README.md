@@ -5,20 +5,27 @@
 
 During my last contract I worked with [American Express](https://www.americanexpress.com/), [Lifeworks](https://www.lifeworks.org/), [CQ Fluency](https://www.cqfluency.com/), [Foresight Strategy](https://foresightstrategy.com/), [Lake Media](https://lakemediagroup.com/), and more.
 
-
+<h3>American Express</h3>
 <img width="1492" alt="american express email" src="https://github.com/user-attachments/assets/f7d8b241-af41-4faf-8048-9b0bf8b21b3e">
 <br>
 <br>
+<h3>Lifeworks</h3>
+<img width="1491" alt="Lifeworks" src="https://github.com/user-attachments/assets/4f71d48f-83d8-48b2-a096-c5533fa8b3f4" />
+<br>
+<br>
+<h3>Lake Media</h3>
 <img width="1492" alt="lakemedia" src="https://github.com/user-attachments/assets/a7631de8-799b-4365-99f2-9db739e90868">
 <br>
 <br>
+<h3>CQ Fluency</h3>
 <img width="1492" alt="cqfluency" src="https://github.com/user-attachments/assets/74bfa331-9ffa-4f13-9943-a0618186b039">
 <br>
 <br>
+<h3>Foresight</h3>
 <img width="1492" alt="foresight" src="https://github.com/user-attachments/assets/f1c38c87-a26c-4df9-9435-1073ff28a69e">
 <br>
 <br>
-
+<h3>The website I created as part of a job application</h3>
 ![image of desktop honour](https://github.com/AangBel/AangBel/assets/119378254/652e1373-c320-4528-ab94-a1524cb765df)
 <a>https://fierce-bayou-82155-484a03091d02.herokuapp.com/</a>
 ![Rutina image](https://github.com/AangBel/AangBel/assets/119378254/f5828b57-6e37-4c51-9718-60f63c58406a)
