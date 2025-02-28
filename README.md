@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angelica Beltran</h1>
 
-- 🔭 I’m currently working on a full site redesign for [Lifeworks](https://www.lifeworks.org/).
-
-- 🌱 I’m currently strengthening my knowledge on animations and transitions.
 
 - 📫 How to reach me **angelica.beltran11@gmail.com**
 
