@@ -26,8 +26,10 @@ During my last contract I worked with [American Express](https://www.americanexp
 <br>
 <br>
 <h3>The website I created as part of a job application</h3>
-![image of desktop honour](https://github.com/AangBel/AangBel/assets/119378254/652e1373-c320-4528-ab94-a1524cb765df)
+<img width="1494" alt="Honour Coffee" src="https://github.com/AangBel/AangBel/assets/119378254/652e1373-c320-4528-ab94-a1524cb765df">
+<h3>Below are projects I created during my time in Prime Digital Academy</h3>h3>
 <a>https://fierce-bayou-82155-484a03091d02.herokuapp.com/</a>
+
 ![Rutina image](https://github.com/AangBel/AangBel/assets/119378254/f5828b57-6e37-4c51-9718-60f63c58406a)
 <a>https://infinite-island-02934-33c7137ddfa8.herokuapp.com/#/MyDay</a>
 <img width="1494" alt="Barbie SQL" src="https://github.com/AangBel/AangBel/assets/119378254/b9af9958-226e-4f6c-8222-e955aceb5b16">
