@@ -27,7 +27,7 @@ During my last contract I worked with [American Express](https://www.americanexp
 <br>
 <h3>The website I created as part of a job application</h3>
 <img width="1494" alt="Honour Coffee" src="https://github.com/AangBel/AangBel/assets/119378254/652e1373-c320-4528-ab94-a1524cb765df">
-<h3>Below are projects I created during my time in Prime Digital Academy</h3>h3>
+<h3>Below are projects I created during my time in Prime Digital Academy</h3>
 <a>https://fierce-bayou-82155-484a03091d02.herokuapp.com/</a>
 
 ![Rutina image](https://github.com/AangBel/AangBel/assets/119378254/f5828b57-6e37-4c51-9718-60f63c58406a)
